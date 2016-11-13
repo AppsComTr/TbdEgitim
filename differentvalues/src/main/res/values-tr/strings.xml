@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lokalize_text">Bu yazı lokalize edilmiştir. Cihazın diline göre textin dili de değişmektedir.</string>
+</resources>

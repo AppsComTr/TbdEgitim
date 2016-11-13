@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string name="merhaba">Merhaba, bu ekran layout1</string>
+    <string name="birseyler_yaz">Birşeyler yaz</string>
+    <string name="baska_birseyler_yaz">Başka birşeyler yaz</string>
+    <string name="butona_bas">Butona Bas</string>
+    <string name="shakira">Shakira</string>
+    <string name="retrospective">Retrospective</string>
+    <string name="isim">İsim</string>
+    <string name="kilo">Kilo</string>
+    <string name="boy">Boy</string>
+    <string name="isim1">Ahmet</string>
+    <string name="kilo1">67kg</string>
+    <string name="boy1">160cm</string>
+    <string name="isim2">Ayşe</string>
+    <string name="kilo2">50kg</string>
+    <string name="boy2">155cm</string>
+    <string name="isim3">Mehmet</string>
+    <string name="kilo3">73kg</string>
+    <string name="boy3">172cm</string>
+</resources>

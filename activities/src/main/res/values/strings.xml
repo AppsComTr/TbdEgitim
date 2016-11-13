@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="button_text">Diğer activity aç</string>
+    <string name="ikinci_activity">İkinci Activity Açıldı</string>
+</resources>

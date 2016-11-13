@@ -1,0 +1,1 @@
+include ':fragments', ':scrollview', ':listview', ':recyclerview', ':onescreen', ':googlemaps', ':broadcastreceiver', ':internetbluetoothstatedetect', ':layoutexample', ':differentvalues', ':activities', ':sharedpreferences', ':externallibraries', ':flexitagslibrary', ':demoapp'

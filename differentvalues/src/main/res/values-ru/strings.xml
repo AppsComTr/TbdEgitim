@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lokalize_text">Этот текст локализован. Ее язык зависит от языка устройства.</string>
+</resources>

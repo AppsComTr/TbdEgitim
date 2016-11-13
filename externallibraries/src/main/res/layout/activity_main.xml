@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        cardview:cardCornerRadius="3dp"
+        cardview:cardElevation="5dp"
+        cardview:cardUseCompatPadding="true">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"/>
+
+    </android.support.v7.widget.CardView>
+
+    <net.mskurt.flexitagslibrary.FlexiTags
+        xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/flexitags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        custom:tagIconSize="15dp"
+        custom:tagIcon="@drawable/hashtag_icon"
+        custom:tagTextColor="#000000"
+        custom:tagBackground="@drawable/tag_selector"
+        custom:tags="@array/flexitags_array"/>
+
+
+</LinearLayout>

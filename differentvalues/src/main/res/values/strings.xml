@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DifferentValues</string>
+    <string name="lokalize_text">This text is localized. Its language depends on device language.</string>
+</resources>

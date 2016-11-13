@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExternalLibraries</string>
+    <array name="flexitags_array">
+        <item>Manzara</item>
+        <item>Tayland</item>
+        <item>Çok güzel</item>
+        <item>Gitmeli</item>
+        <item>Yesil ve Mavi</item>
+    </array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="acik">Açık</string>
+    <string name="kapali">Kapalı</string>
+</resources>
