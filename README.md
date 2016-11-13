@@ -41,3 +41,11 @@ Bütün kod havuzu tek bir Android Studio projesinden oluşuyor ve içerisinde b
 *3) Proje studionuzda açılıp derlendiğinde aşağıdaki gibi bir ekranla karşılacaksınız. Yeşil run butonunun yanında dilediğiniz modülü seçebilir ve çalıştırabilirsiniz.*
 
 ![step1 image](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/step3.png)
+
+
+
+# Bizi Takip Edin
+
+[![Facebook](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/facebook_icon.png)](https://www.facebook.com/AppsComTr/)
+[![Twitter](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/twitter_icon.png)](https://twitter.com/AppsComTr)
+[![Youtube](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/youtube_icon.png)](https://www.youtube.com/channel/UCcqG58QPJj8pQNgLdZEHRvg)
