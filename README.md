@@ -26,3 +26,18 @@ Aşağıdaki listede eğitimin tüm içeriğini görebilirsiniz.
 
 Bütün kod havuzu tek bir Android Studio projesinden oluşuyor ve içerisinde bir çok modül barındırıyor. Her bir modül konuların birisine karşılık gelen çalıştırılabilir bir uygulama. İndirip çalıştırmak ve görmek isterseniz aşağıdaki resimleri takip edebilirsiniz.
 
+*1) Bu sayfanın sağ köşesindeki 'Clone Or Download' butonuna basın ve projeyi zip olarak indirin.*
+
+![step1 image](https://github.com/AppsComTr/TbdEgitim/readme/step1.png)
+
+
+
+*2) Zip'i dışarı extract edin ve Android Studio'nuzu açıp 'Open an existing Android Studio Project' seçeneğini kullanarak dışarı çıkartmış olduğunuz projeyi hedef gösterin*
+
+![step1 image](https://github.com/AppsComTr/TbdEgitim/readme/step2.png)
+
+
+
+*3) Proje studionuzda açılıp derlendiğinde aşağıdaki gibi bir ekranla karşılacaksınız. Yeşil run butonunun yanında dilediğiniz modülü seçebilir ve çalıştırabilirsiniz.*
+
+![step1 image](https://github.com/AppsComTr/TbdEgitim/readme/step3.png)
