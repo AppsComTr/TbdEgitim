@@ -46,6 +46,6 @@ Bütün kod havuzu tek bir Android Studio projesinden oluşuyor ve içerisinde b
 
 # Bizi Takip Edin
 
-[![Facebook](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/facebook_icon.png =100x100)](https://www.facebook.com/AppsComTr/)
-[![Twitter](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/twitter_icon.png =100x100)](https://twitter.com/AppsComTr)
-[![Youtube](https://github.com/AppsComTr/TbdEgitim/blob/master/readme/youtube_icon.png =100x100)](https://www.youtube.com/channel/UCcqG58QPJj8pQNgLdZEHRvg)
+<a href="https://www.facebook.com/AppsComTr/"><img src="https://github.com/AppsComTr/TbdEgitim/blob/master/readme/facebook_icon.png" align="left" height="100" width="100" ></a>
+<a href="https://twitter.com/AppsComTr"><img src="https://github.com/AppsComTr/TbdEgitim/blob/master/readme/twitter_icon.png" align="left" height="100" width="100" ></a>
+<a href="https://www.youtube.com/channel/UCcqG58QPJj8pQNgLdZEHRvg"><img src="https://github.com/AppsComTr/TbdEgitim/blob/master/readme/youtube_icon.png" align="left" height="100" width="100" ></a>
