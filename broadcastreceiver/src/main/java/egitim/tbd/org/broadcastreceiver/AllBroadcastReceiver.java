@@ -6,9 +6,13 @@ import android.content.Intent;
 import android.util.Log;
 import android.widget.Toast;
 
+//Cihaz yeniden başladığında, güç kablosu takıldığında veya çıkarıldığında yaydığı yayınları
+//yakalayan tek bir receiver
 public class AllBroadcastReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
+        //Yayın yakalandığında buraya düşer
+        //Hangi tür yayın yakalandığı ise getAction metoduyla belirlenir.
         switch (intent.getAction()){
             case Intent.ACTION_POWER_CONNECTED:
                 Log.e("POWER", "Power Connected Received");

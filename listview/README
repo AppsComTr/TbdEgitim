@@ -1,4 +1,3 @@
-Bu modülde listview'ın kullanımı gösterilmiştir. Listview sadece içerisindeki çocukları scroll eden bir yataktır.
-Asıl işi listview'ın adapter'u olarak atanan ListAdapter objesi yapar. Adapter objeleri listenin organizasyonunu yapar,
-hangi sırada hangi child'ın geleceğini bilir. Bunları bilebiliyor olmasının asıl nedeni adapter'un gerekli metodlarının
-içeriklerinin developer tarafından doldurulmasıdır.
+# ListView
+
+Bu modülde listview'ın kullanımı gösterilmiştir. Listview sadece içerisindeki çocukları scroll eden bir yataktır. Asıl işi listview'ın adapter'u olarak atanan ListAdapter objesi yapar. Adapter objeleri listenin organizasyonunu yapar, hangi sırada hangi child'ın geleceğini bilir. Bunları bilebiliyor olmasının asıl nedeni adapter'un gerekli metodlarının içeriklerinin developer tarafından doldurulmasıdır.

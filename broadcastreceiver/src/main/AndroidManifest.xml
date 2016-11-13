@@ -11,28 +11,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!--Cihazın boot işleminin sonunda yaydığı yayını yakalayan receiver-->
         <receiver android:name=".BootCompletedReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
+
+        <!--Cihazın güç kablosu takıldığında yaydığı yayını yakalayan receiver-->
         <receiver android:name=".PowerConnectedReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
             </intent-filter>
         </receiver>
+
+        <!--Cihazın güç kablosu çıkarıldığında yaydığı yayını yakalayan receiver-->
         <receiver android:name=".PowerDisconnectedReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
             </intent-filter>
         </receiver>
-        <receiver android:name=".AllBroadcastReceiver" >
+
+        <!--Yukarıdaki gibi tek tek broadcast receiver tanımlayabilecegimiz gibi
+            alttaki gibi sadece bir tane tanımlayıp dinlemek istedigimiz tüm olayları
+            belirtebiliriz-->
+        <!--<receiver android:name=".AllBroadcastReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
                 <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
-        </receiver>
+        </receiver>-->
     </application>
 
 </manifest>
